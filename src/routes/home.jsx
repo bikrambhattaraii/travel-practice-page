@@ -1,6 +1,7 @@
 import {Navbar} from "../component/navbar/navbar";
 import {Hero} from "../component/hero"
 import React from "react";
+import { Destination } from "../component/destination";
 
 export function Home(){
     return(
@@ -16,7 +17,7 @@ export function Home(){
         url="/"
         btnClass="show"
         />
-       
+       <Destination></Destination>
         </>
     )
 }
