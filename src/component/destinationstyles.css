@@ -10,8 +10,16 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 margin-top: 4.5rem;
-flex-direction: column;
+
 }
+.first-des-reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+    
+    }
 .des-text{
     width: 45%;
     text-align: start;
@@ -27,9 +35,9 @@ flex-direction: column;
     justify-content: space-between;
     z-index: -99;
 }
-img{
+.image img{
     width: 49%;
-    height: 200px;
+    height: 350px;
     object-fit: cover;
     border-radius:6px ;
     box-shadow: -1px 1px 62px -18px rgba(0,0,0,0.19);
