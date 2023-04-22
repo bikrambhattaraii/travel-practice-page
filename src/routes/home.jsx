@@ -2,7 +2,7 @@ import {Navbar} from "../component/navbar/navbar";
 import {Hero} from "../component/hero"
 import React from "react";
 import { Destination } from "../component/destination";
-
+import { Trip } from "../component/trip";
 export function Home(){
     return(
         <>
@@ -18,6 +18,9 @@ export function Home(){
         btnClass="show"
         />
        <Destination></Destination>
+       <Trip></Trip>
+       
         </>
+
     )
 }
