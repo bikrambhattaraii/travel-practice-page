@@ -3,6 +3,7 @@ import {Hero} from "../component/hero"
 import React from "react";
 import { Destination } from "../component/destination";
 import { Trip } from "../component/trip";
+import {Footer} from "../component/footer"
 export function Home(){
     return(
         <>
@@ -19,7 +20,7 @@ export function Home(){
         />
        <Destination></Destination>
        <Trip></Trip>
-       
+       <Footer></Footer>
         </>
 
     )
