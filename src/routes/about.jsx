@@ -1,10 +1,14 @@
 import { Footer } from "../component/footer";
+import {AboutUS} from "../component/aboutus"
+import { Navbar } from "../component/navbar/navbar";
+import { Hero } from "../component/hero";
 function About(){
     return(
         <>
+        <Navbar></Navbar>
 
-       <p>  this is about us page  </p>
-       
+       <Hero ></Hero>
+       <AboutUS></AboutUS>
       <Footer></Footer> 
        </>
     )
