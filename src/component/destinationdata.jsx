@@ -1,10 +1,5 @@
 import "./destinationstyles.css";
-import { Component } from "react";
-
 export function DestinationData (props){
-
-
-
 return(
 <>
 <div className={props.className}>
@@ -14,8 +9,8 @@ return(
     <p>{props.text}</p>
     </div>
     <div className="image">
-        <img src="https://unsplash.com/photos/DXuxHw3S5ak" alt="img"  />
-        <img src="https://unsplash.com/photos/DXuxHw3S5ak" alt="img" />
+        <img src={props.image1} alt="img"  />
+        <img src={props.image2} alt="img" />
     </div>
    </div>
 </>
