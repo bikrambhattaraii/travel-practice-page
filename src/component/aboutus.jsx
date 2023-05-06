@@ -11,7 +11,7 @@ export function AboutUs(){
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis accusantium reprehenderit repudiandae vel quidem officia assumenda voluptatum quisquam voluptates officiis tenetur praesentium eaque error velit, aliquam doloribus. Minus, sunt rem?</p>
             <h1>Our history</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi laboriosam esse illum optio id corrupti fuga dolor laborum. Voluptate exercitationem laudantium earum facilis reprehenderit veniam iusto cum, dolor saepe magni.</p>
-            
+            <p>hs</p>
         </div>
         </>
     )
