@@ -9,7 +9,7 @@ export function Destination (){
 
 return(
     <>
-    <div className="destination">
+    <div className="destination-container">
         <h1>Popular destination</h1>
         <p>Tour gives you the oppurtunity to travel the world</p>
   

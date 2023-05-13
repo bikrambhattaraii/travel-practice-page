@@ -1,7 +1,7 @@
-.destination{
+.destination-container{
     margin: 4rem 6rem;
 }
-.destination h1{
+.destination-container h1{
     font-size: 3rem;
 
 }

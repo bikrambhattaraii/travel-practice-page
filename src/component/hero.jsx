@@ -5,7 +5,7 @@ import "./herostyles.css"
  export function Hero(props){
 return(
     <div className={props.cName}>
-        <img alt="image" src={props.heroImg} /> 
+        <img alt="hero-image" src={props.heroImg} /> 
     
     <div className="image-text">
         <h1>{props.title}</h1>

@@ -30,14 +30,14 @@ export function Footer(){
 <div className="bottom">
 <div>
     <h4>projects</h4>
-    <a href="">js</a>
-    <a href="">sj</a>
-    <a href="">react</a>
-    <a href="">f</a>
+    <a href="">travel</a>
+    <a href="">thecipherbit</a>
+    <a href="">shreedental</a>
+    <a href="">digitalden</a>
 </div>
 <div>
     <h4>community</h4>
-    <a href="">github</a>
+    <a href="https://github.com/Bikrambhattaraii" target="_blank" >github</a>
     <a href="">issues</a>
     <a href="">project</a>
     <a href="">twitter</a>

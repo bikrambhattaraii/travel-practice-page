@@ -5,7 +5,7 @@ export function Trip(){
     
 return(
     <>
-    <div className="trip">
+    <div className="trip-container">
         <h1>recent Trips</h1>
         <p>you can discover unique destination</p>
     <div className="tripcard">
