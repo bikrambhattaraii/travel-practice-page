@@ -3,7 +3,7 @@ import {Hero } from "../component/hero"
 
 import {Navbar} from "../component/navbar/navbar"
 import {Trip} from "../component/trip";
-function Service(){
+export function Service(){
 return(
 <>
 <Navbar>
@@ -17,4 +17,3 @@ return(
 
 );
 }
-export default Service;

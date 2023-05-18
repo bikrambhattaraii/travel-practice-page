@@ -3,6 +3,7 @@
 import "./herostyles.css"
 
  export function Hero(props){
+    
 return(
     <div className={props.cName}>
         <img alt="hero-image" src={props.heroImg} /> 
