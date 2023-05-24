@@ -1,10 +1,20 @@
 .destination-container{
     margin: 4rem 6rem;
+    padding: 40px;
 }
 .destination-container h1{
     font-size: 3rem;
+    text-align: center;
 
 }
+.destination-header{
+    margin-bottom: 40px;
+}
+.destination-header p{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
 .first-des{
 display: flex;
 align-items: center;

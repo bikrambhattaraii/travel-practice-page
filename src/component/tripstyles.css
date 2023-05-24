@@ -2,11 +2,17 @@
 
 
 .trip-container{
-   margin: 4rem 6 rem; 
+   margin: 4rem 6rem; 
    cursor: pointer;
 }
 .trip-container h1{
     font-size: 4rem;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.trip-container p{
+    font-size: 1.5rem;
+    text-align: center;
 }
 
 .tripcard{
