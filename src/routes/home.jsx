@@ -5,6 +5,7 @@ import { Destination } from "../component/destination";
 import { Trip } from "../component/trip";
 import {Footer} from "../component/footer"
 import { AboutUs } from "../component/aboutus";
+import {Scrolltotop} from "../component/scrolltotop/scrolltotop"
 export function Home(){
     return(
         <>
@@ -22,6 +23,7 @@ export function Home(){
        <Destination></Destination>
        <Trip></Trip>
        <AboutUs />
+       <Scrolltotop />
        <Footer></Footer>
         </>
 
